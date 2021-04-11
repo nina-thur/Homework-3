@@ -86,3 +86,12 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.nina {
+  display: block;
+  margin: 0 auto;
+  max-width: 60%;
+  border-radius: 340px;
+  width: 240px;
+  height: 240px;
+}
